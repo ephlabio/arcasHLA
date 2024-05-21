@@ -1,0 +1,15 @@
+clean_ref
+*.log
+*.egg-info/
+__pycache__/
+dist/
+arcashla_latest.sif
+	
+arcas/dat/IMGTHLA/
+arcas/dat/ref/hla.convert.json
+arcas/dat/ref/hla.fasta
+arcas/dat/ref/hla.idx
+arcas/dat/ref/hla.p.json
+arcas/dat/ref/hla_partial.fasta
+arcas/dat/ref/hla_partial.idx
+arcas/dat/ref/hla_partial.p.json
